@@ -33,7 +33,7 @@ export default function Contact() {
             className="block p-2 border-1 w-full mt-5 border-gray-300"
           />
 
-          <button className="text-lg bg-black text-white p-2 my-8">
+          <button className="text-lg bg-black text-white p-2 my-8 cursor-pointer">
             SEND MESSAGE
           </button>
         </form>
